@@ -40,6 +40,10 @@ nav{
     color:#333;
 }
 
+.nav-icon span::first-letter{
+    color:rgb(230, 15, 51);
+}
+
 .nav-icon img{
     width: 40px;
     transform: rotate(-17deg) translateX(5px);
